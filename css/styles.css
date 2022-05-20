@@ -1,14 +1,13 @@
 :root {
   --primary-text-color: #757575;
   --title-text-color: #212121;
-  --accent-color: #2196F3;
-  --white-color: #FFFFFF;
+  --accent-color: #2196f3;
+  --white-color: #ffffff;
   --black-color: #000000;
-  --background-color: #FFFFFF;
-  --hero-background-color : #2f303a;
-  --section-color: #F5F4FA;
+  --background-color: #ffffff;
+  --hero-background-color: #2f303a;
+  --section-color: #f5f4fa;
 }
-
 body {
   background-color: var(--background-color);
   color: var(--primary-text-color);
@@ -53,5 +52,3 @@ body {
   cursor: pointer;
 }
 /* features */
-
-
