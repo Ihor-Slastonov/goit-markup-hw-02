@@ -79,6 +79,7 @@ body {
   color: var(--white-color);
 }
 .button {
+  font-family: Roboto, sans-serif;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -148,6 +149,7 @@ body {
 /* Стили для portfolio.html */
 /* buttons */
 .buttons {
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
